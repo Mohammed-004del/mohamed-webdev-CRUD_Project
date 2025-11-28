@@ -255,7 +255,7 @@ Contributions are welcome! Feel free to:
 **Mohammed Mahmood Hamed**
 
 - GitHub: [@Mohammed-004del](https://github.com/Mohammed-004del)
-- LinkedIn: [Mohammed Mahmood]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/))
+- LinkedIn: [Mohammed Mahmood]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)
 
 ---
 
