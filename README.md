@@ -1,6 +1,6 @@
 # 📦 CRUDS Product Management System
 
-![CRUDS Banner](images/)
+![CRUDS Banner](images/Cruds_project.png)
 
 ## 📖 About the Project
 
@@ -40,7 +40,7 @@ A powerful **CRUDS (Create, Read, Update, Delete, Search)** system for managing 
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Screen](screenshot_main.png)
+![Main Screen](images/Cruds_project.png)
 
 ### Product Management
 ![Product List](screenshot_products.png)
@@ -255,7 +255,7 @@ Contributions are welcome! Feel free to:
 **Mohammed Mahmood Hamed**
 
 - GitHub: [@Mohammed-004del](https://github.com/Mohammed-004del)
-- LinkedIn: [Mohammed Mahmood]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)
+- LinkedIn: [Mohammed Mahmood](https://www.linkedin.com/in/mohammed-mahmood-7327b0301/)
 
 ---
 
