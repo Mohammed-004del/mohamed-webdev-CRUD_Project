@@ -1,6 +1,6 @@
 # 📦 CRUDS Product Management System
 
-![CRUDS Banner](images/Cruds_project.png)
+![CRUDS Banner](images/CRUDS_Project_main.png)
 
 ## 📖 About the Project
 
@@ -40,13 +40,14 @@ A powerful **CRUDS (Create, Read, Update, Delete, Search)** system for managing 
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Screen](images/Cruds_project.png)
+![Main Screen](images/CRUDS_Project_main.png)
 
 ### Product Management
-![Product List](screenshot_products.png)
+![Product List](images/Cruds_project.png)
 
 ### Search Functionality
-![Search Feature](screenshot_search.png)
+![Search Feature 1](images/CRUDS_Project_Search_by_title.png)
+![Search Feature 2](images/CRUDS_Project_Search_by_category.png)
 
 ---
 
