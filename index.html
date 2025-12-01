@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>JS By Mohammed Mahmood Hamed</title>
-
 </head>
 <body>
 
@@ -18,8 +15,6 @@
             <h1>cruds</h1>
             <p>product create , read , update & delete</p>
         </div>
-
-
 
         <div class="inptus">
             <input type="text" id="title" placeholder="title">
@@ -36,8 +31,6 @@
             <input type="text" placeholder="category" id="category">
             <button id="create"> create </button>
         </div>
-
-
         
         <div class="output">
             <div class="searchblock">
@@ -47,35 +40,34 @@
                     <button onclick="getsearchmood(this.id)" id="searchtitle">search by title</button>
                     <button onclick="getsearchmood(this.id)" id="searchcategory">search by category</button>
                 </div>
-
             </div>
 
-            <div id="DeleteAll">
-                
-            </div>
+            <div id="DeleteAll"></div>
 
-            <table>
-                <tr>
-                    <th>id</th>
-                    <th>title</th>
-                    <th>price</th>
-                    <th>taxes</th>
-                    <th>ads</th>
-                    <th>discount</th>
-                    <th>Total</th>
-                    <th>category</th>
-                    <th>update</th>
-                    <th>delete</th>
-                </tr>
-                <tbody id="table">
-                    
-                </tbody>
-            </table>
+            <!-- Added table-box wrapper for responsive scrolling -->
+            <div class="table-box">
+                <table>
+                    <tr>
+                        <th>id</th>
+                        <th>title</th>
+                        <th>price</th>
+                        <th>taxes</th>
+                        <th>ads</th>
+                        <th>discount</th>
+                        <th>Total</th>
+                        <th>category</th>
+                        <th>update</th>
+                        <th>delete</th>
+                    </tr>
+                    <tbody id="table">
+                        
+                    </tbody>
+                </table>
+            </div>
 
         </div>
 
     </div>
-
 
     <script src="script.js"></script>
 </body>
